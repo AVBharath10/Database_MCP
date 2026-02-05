@@ -9,7 +9,7 @@ A powerful Model Context Protocol (MCP) server that provides a unified interface
 - **Query Execution**: Execute SQL queries and MongoDB operations directly.
 - **Data Export**: Export tables and query results to CSV format with a single tool call.
 - **Connection Management**: Efficiently handle and monitor active database connections.
-- **Visual Tools Integration**: Automatically launch management tools like pgAdmin, MySQL Workbench, MongoDB Compass, and DB Browser for SQLite.
+- **Visual Tools Integration**: Automatically launch management tools like pgAdmin, MySQL Workbench, MongoDB Compass, and DB Browser for SQLite
 
 ## Installation
 
